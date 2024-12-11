@@ -24,6 +24,7 @@ function HomePage() {
         {/* navigtion by router */}
         <li><button onClick={()=>handleBtn()}>About2</button></li>
         <li><a href="/contact">Contact</a></li>
+      
       </ul>
     </div>
   );
